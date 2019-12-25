@@ -6728,7 +6728,6 @@
     <Compile Include="Controllers\ElectricityController.cs" />
     <Compile Include="Controllers\ExamController.cs" />
     <Compile Include="Controllers\ExamGradeController.cs" />
-    <Compile Include="Controllers\Exams_GroupCollections.cs" />
     <Compile Include="Controllers\GasController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\RankController.cs" />
